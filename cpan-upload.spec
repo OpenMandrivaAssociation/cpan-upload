@@ -20,7 +20,6 @@ BuildRequires: perl(HTTP::Request::Common)
 BuildRequires: perl(File::Basename) >= 2.28
 BuildRequires: perl(Term::ReadKey)
 BuildArch:      noarch
-BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 cpan-upload is a script which automates the process of uploading a file to
