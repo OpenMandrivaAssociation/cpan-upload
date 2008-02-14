@@ -5,7 +5,7 @@
 Name:       %{name}
 Version:    %{version}
 Release:    %{release}
-Summary:    upload one or more files to CPAN, using PAUSE
+Summary:    Upload one or more files to CPAN, using PAUSE
 License:    GPL or Artistic
 Group:      Development/Perl
 URL:        http://search.cpan.org/CPAN/authors/id/N/NE/NEILB/scripts
