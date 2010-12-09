@@ -1,6 +1,6 @@
 %define name        cpan-upload
 %define version     2.2
-%define release     %mkrel 4
+%define release     %mkrel 5
 
 Name:       %{name}
 Version:    %{version}
