@@ -1,6 +1,6 @@
 Name:       cpan-upload
 Version:    2.2
-Release:    6
+Release:    7
 Summary:    Upload one or more files to CPAN, using PAUSE
 License:    GPL or Artistic
 Group:      Development/Perl
