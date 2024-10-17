@@ -4,7 +4,7 @@ Release:    7
 Summary:    Upload one or more files to CPAN, using PAUSE
 License:    GPL or Artistic
 Group:      Development/Perl
-URL:        http://search.cpan.org/CPAN/authors/id/N/NE/NEILB/scripts
+URL:        https://search.cpan.org/CPAN/authors/id/N/NE/NEILB/scripts
 Source:     http://search.cpan.org/CPAN/authors/id/N/NE/NEILB/scripts/%{name}-%{version}.tar.gz
 BuildRequires:  perl-devel
 BuildRequires: perl(AppConfig::Std) >= 1.05
