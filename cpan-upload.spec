@@ -6,6 +6,7 @@ License:    GPL or Artistic
 Group:      Development/Perl
 URL:        https://search.cpan.org/CPAN/authors/id/N/NE/NEILB/scripts
 Source:     http://search.cpan.org/CPAN/authors/id/N/NE/NEILB/scripts/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:  perl-devel
 BuildRequires: perl(AppConfig::Std) >= 1.05
 BuildRequires: perl(Pod::Usage) >= 1.14
